@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [School Projects](https://colab.research.google.com/drive/1cYS-qXHv1jM_qCnN2spUAMZToVvHgjkD)
 
-- 🌱 I’m currently learning **Data Engineering, Feature Engineering, Model Building, Data Analysis, Comparative Modeling**
+- 🌱 I’m currently learning **Neural Networks, Machine Learning, Feature Engineering**
 
-- 👯 I’m looking to collaborate on **Creating a Larger Profile**
+- 👯 I’m looking to collaborate on **Developing a portfolio**
 
 - 🤝 I’m looking for help with [Finding Work](https://www.linkedin.com/in/dylan-hoke-91591522b/)
 
