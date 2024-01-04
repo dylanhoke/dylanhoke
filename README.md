@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dylan Hoke</h1>
 <h3 align="center">A passionate Student of Data Science from Fresno, CA</h3>
 
-- 🔭 I’m currently working on [School Projects](https://colab.research.google.com/drive/1cYS-qXHv1jM_qCnN2spUAMZToVvHgjkD)
+- 🔭 I’m currently working on teaching myself SQL
 
-- 🌱 I’m currently learning **Neural Networks, Machine Learning, Feature Engineering**
+- 🌱 I’m currently studying **Data Engineering, Python Development, In-depth Problem Solving, Algorithmic Python Functions, SQL**
 
 - 👯 I’m looking to collaborate on **Developing a portfolio**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dylanhoke](https://github.com/dylanhoke)
 
-- 💬 Ask me about **My objectives for the future.**
+- 💬 Ask me about **When I can start!**
 
 - 📫 How to reach me **Dylan.m.hoke@outlook.com**
 
