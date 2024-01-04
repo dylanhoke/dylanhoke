@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **When I can start!**
 
-- 📫 How to reach me **Dylan.m.hoke@outlook.com**
+- 📫 How to reach me **Dylan.m.hoke@outlook.com, https://www.linkedin.com/in/dylanmhoke/**
 
 - ⚡ Fun fact **I am a USAF Veteran**
 
